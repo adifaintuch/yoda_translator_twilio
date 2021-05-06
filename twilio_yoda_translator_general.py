@@ -3,7 +3,6 @@ import os
 from twilio.rest import Client
 
 import requests
-# from py_imessage import imessage
 from time import sleep
 import urllib.parse
 import json
@@ -36,7 +35,3 @@ else:
                                   media_url=['https://themodernjedi.files.wordpress.com/2012/01/yoda.png'],
                                   to=phone_to
                               )
-
-
-
-# print(message.sid)
