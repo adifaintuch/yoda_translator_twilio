@@ -5,7 +5,7 @@ An upgraded version of my original Yoda Translator app using Twilio's API
 
 ## How to use:
 ### 1. Move into the folder where main.py is located inside terminal
-### 2. Run the command 'python yoda_translator_twilio_general.py' in terminal
+### 2. Run the command 'python3 yoda_translator_twilio_general.py' in terminal
 #### You will need to manually enter your own Twilio Phone Number, your Twilio account_sid and your Twilio auth_token in the code in order to be able to use it (there are comments indicating where to enter these details in the code)
 
 ![](screenshots/in_terminal_twilio.png)
