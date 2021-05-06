@@ -12,5 +12,5 @@ An upgraded version of my original Yoda Translator app using Twilio's API
 
 <img src="screenshots/text_sent_twilio.png" width="300">
 
-### The yoda translation web API allows for only 3 requests per hour, so if you exceed the limit you will get a message like this:
+### The yoda translation web API allows for only 5 requests per hour, so if you exceed the limit you will get a message like this:
 ![](screenshots/too_many_requests.png)
